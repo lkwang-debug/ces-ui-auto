@@ -1,0 +1,6 @@
+{
+  "right_record_setting_params": {
+    "slice_duration": 45,
+    "without_stream_over_record_time": 30
+  }
+}

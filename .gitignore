@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+venv_*/
+
+# Test artifacts
+allure-results*/
+allure-report*/
+allure_results*/
+allure_report*/
+reports/
+logs/
+*.log
+screenshots/
+analysis_artifacts/
+js_send_keys_error.png
+.runtime/
+.recovery/
+
+# Build output
+build/
+dist/
+*.egg-info/
+
+# IDE and local tools
+.idea/
+.vscode/
+.claude/
+.codex-temp/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+conf/conf.py
+data/image/
+scripts/monitoring_artifacts_*/
+
+# Temporary and OS files
+*.tmp
+*.temp
+*.bak
+*.bak_*
+*.backup_*
+*.swp
+*~
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+.report-archive/
+.stability/

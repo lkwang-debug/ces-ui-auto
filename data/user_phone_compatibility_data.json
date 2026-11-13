@@ -1,0 +1,54 @@
+{
+  "cmcc_135": {
+    "scenario": "中国移动传统135号段",
+    "category": "中国移动传统号段",
+    "prefix": "135"
+  },
+  "cucc_155": {
+    "scenario": "中国联通传统155号段",
+    "category": "中国联通传统号段",
+    "prefix": "155",
+    "fixed_phone": "15515873759"
+  },
+  "ctcc_133": {
+    "scenario": "中国电信传统133号段",
+    "category": "中国电信传统号段",
+    "prefix": "133"
+  },
+  "cbn_192": {
+    "scenario": "中国广电192号段",
+    "category": "中国广电号段",
+    "prefix": "192"
+  },
+  "mvno_165": {
+    "scenario": "虚拟运营商165号段",
+    "category": "移动通信转售号段",
+    "prefix": "165",
+    "fixed_phone": "16515873759"
+  },
+  "segment_178": {
+    "scenario": "17号段代表178",
+    "category": "17号段代表",
+    "prefix": "178"
+  },
+  "segment_186": {
+    "scenario": "18号段代表186",
+    "category": "18号段代表",
+    "prefix": "186"
+  },
+  "ctcc_190": {
+    "scenario": "中国电信190号段",
+    "category": "中国电信19号段",
+    "prefix": "190"
+  },
+  "cucc_196": {
+    "scenario": "中国联通196号段",
+    "category": "中国联通19号段",
+    "prefix": "196"
+  },
+  "cmcc_197": {
+    "scenario": "中国移动197号段",
+    "category": "中国移动19号段",
+    "prefix": "197"
+  }
+}

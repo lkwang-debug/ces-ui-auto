@@ -1,0 +1,12 @@
+{
+  "add_failed_nothing": {
+    "organize_name": "",
+    "organize_describe": "666",
+    "msg": "为空"
+  },
+  "add_failed_special_character": {
+    "organize_name": ",./",
+    "organize_describe": "666",
+    "msg": "支持汉字,英文字母,数字和英文下划线"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "terminal_001": {"name": "a", "serial_number": "a"},
+  "terminal_002": {"name": "aa", "serial_number": "aa"},
+  "terminal_003": {"name": "aaa", "serial_number": "aaa"},
+  "terminal_004": {"name": "aaaa", "serial_number": "aaaa"},
+  "terminal_005": {"name": "aaaaa", "serial_number": "aaaaa"},
+  "terminal_006": {"name": "aaaaaa", "serial_number": "aaaaaa"},
+  "terminal_007": {"name": "aaaaaaa", "serial_number": "aaaaaaa"},
+  "terminal_008": {"name": "aaaaaaaa", "serial_number": "aaaaaaaa"},
+  "terminal_009": {"name": "aaaaaaaaa", "serial_number": "aaaaaaaaa"},
+  "terminal_010": {"name": "aaaaaaaaaa", "serial_number": "aaaaaaaaaa"},
+  "terminal_011": {"name": "aaaaaaaaaaa", "serial_number": "aaaaaaaaaaa"},
+  "terminal_012": {"name": "aaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaa"},
+  "terminal_013": {"name": "aaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaa"},
+  "terminal_014": {"name": "aaaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaaa"},
+  "terminal_015": {"name": "aaaaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaaaa"},
+  "terminal_016": {"name": "aaaaaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaaaaa"},
+  "terminal_017": {"name": "aaaaaaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaaaaaa"},
+  "terminal_018": {"name": "aaaaaaaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaaaaaaa"},
+  "terminal_019": {"name": "aaaaaaaaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaaaaaaaa"},
+  "terminal_020": {"name": "aaaaaaaaaaaaaaaaaaaa", "serial_number": "aaaaaaaaaaaaaaaaaaaa"}
+}

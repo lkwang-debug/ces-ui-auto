@@ -1,0 +1,13 @@
+{
+  "valid": {"scenario": "valid", "username": "$VALID", "password": "$PASSWORD"},
+  "wrong_password": {"scenario": "wrong_password", "username": "$VALID", "password": "WrongPass123!"},
+  "wrong_username": {"scenario": "wrong_username", "username": "missing_login_user", "password": "$PASSWORD"},
+  "wrong_both": {"scenario": "wrong_both", "username": "missing_login_user", "password": "WrongPass123!"},
+  "empty_username": {"scenario": "empty_username", "username": "", "password": "$PASSWORD"},
+  "empty_password": {"scenario": "empty_password", "username": "$VALID", "password": ""},
+  "empty_both": {"scenario": "empty_both", "username": "", "password": ""},
+  "username_whitespace": {"scenario": "username_whitespace", "username": "  $VALID  ", "password": "$PASSWORD"},
+  "username_case_changed": {"scenario": "username_case_changed", "username": "$VALID_UPPER", "password": "$PASSWORD"},
+  "oversized_values": {"scenario": "oversized_values", "username": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", "password": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"},
+  "special_characters": {"scenario": "special_characters", "username": "<script>alert(1)</script>", "password": "' OR '1'='1"}
+}

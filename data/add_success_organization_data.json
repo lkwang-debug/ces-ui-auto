@@ -1,0 +1,27 @@
+{
+"add_include_": {
+    "organize_name": "_abc",
+    "organize_describe": "abc",
+    "msg": "操作成功"
+  },
+  "add_Chinese": {
+    "organize_name": "中文",
+    "organize_describe": "一二三",
+    "msg": "操作成功"
+  },
+  "add_English": {
+    "organize_name": "oneokrock",
+    "organize_describe": "onetwothree",
+    "msg": "操作成功"
+  },
+  "add_success": {
+    "organize_name": "12345",
+    "organize_describe": "666",
+    "msg": "操作成功"
+  },
+  "add_failed_repeat": {
+    "organize_name": "12345",
+    "organize_describe": "666",
+    "msg": "部门名称在同级节点下已存在"
+  }
+  }

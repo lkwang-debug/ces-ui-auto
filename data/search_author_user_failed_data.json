@@ -1,0 +1,10 @@
+{
+"search_no_exist": {
+  "search_content":"uipass1245",
+  "msg":"暂无数据"
+},
+  "search_null": {
+      "search_content":"  ",
+  "msg":"暂无数据"
+  }
+}

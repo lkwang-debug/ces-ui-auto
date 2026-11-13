@@ -1,0 +1,200 @@
+{
+  "add_user_batches": {
+    "keyword": "批量新增用户",
+    "username": "admin02",
+    "operation_content": "批量新增用户",
+    "result": "成功"
+  },
+  "delete_user": {
+    "keyword": "删除用户",
+    "username": "admin02",
+    "operation_content": "删除用户",
+    "result": "成功"
+  },
+  "modify_user_info": {
+    "keyword": "修改用户信息",
+    "username": "admin02",
+    "operation_content": "修改用户信息",
+    "result": "成功"
+  },
+  "export_user": {
+    "keyword": "用户导出",
+    "username": "admin02",
+    "operation_content": "用户导出",
+    "result": "成功"
+  },
+  "add_meeting": {
+    "keyword": "新增会议室",
+    "username": "admin02",
+    "operation_content": "新增会议室",
+    "result": "成功"
+  },
+  "modify_meeting_info": {
+    "keyword": "修改会议室信息",
+    "username": "admin02",
+    "operation_content": "修改会议室信息",
+    "result": "成功"
+  },
+  "delete_meeting": {
+    "keyword": "删除会议室",
+    "username": "admin02",
+    "operation_content": "删除会议室",
+    "result": "成功"
+  },
+  "authorize_user_sort": {
+    "keyword": "授权用户排序",
+    "username": "admin02",
+    "operation_content": "授权用户排序",
+    "result": "成功"
+  },
+  "add_organization": {
+    "keyword": "新增部门",
+    "username": "admin02",
+    "operation_content": "新增部门",
+    "result": "成功"
+  },
+  "modify_terminal": {
+    "keyword": "终端-修改",
+    "username": "admin02",
+    "operation_content": "终端-修改",
+    "result": "成功"
+  },
+  "delete_terminal": {
+    "keyword": "终端-删除",
+    "username": "admin02",
+    "operation_content": "终端-删除",
+    "result": "成功"
+  },
+  "find_terminal_list": {
+    "keyword": "终端-分页查询列表",
+    "username": "admin02",
+    "operation_content": "终端-分页查询列表",
+    "result": "成功"
+  },
+  "add_feature": {
+    "keyword": "新增特性",
+    "username": "admin02",
+    "operation_content": "新增特性",
+    "result": "成功"
+  },
+  "find_feature": {
+    "keyword": "分页查询特性",
+    "username": "admin02",
+    "operation_content": "分页查询特性",
+    "result": "成功"
+  },
+  "modify_feature": {
+    "keyword": "修改特性",
+    "username": "admin02",
+    "operation_content": "修改特性",
+    "result": "成功"
+  },
+  "delete_feature": {
+    "keyword": "删除特性",
+    "username": "admin02",
+    "operation_content": "删除特性",
+    "result": "成功"
+  },
+  "view_feature_details": {
+    "keyword": "特性详情",
+    "username": "admin02",
+    "operation_content": "特性详情",
+    "result": "成功"
+  },
+  "add_product": {
+    "keyword": "新增产品信息",
+    "username": "admin02",
+    "operation_content": "新增产品信息",
+    "result": "成功"
+  },
+  "modify_product": {
+    "keyword": "修改产品信息",
+    "username": "admin02",
+    "operation_content": "修改产品信息",
+    "result": "成功"
+  },
+  "delete_product": {
+    "keyword": "删除产品",
+    "username": "admin02",
+    "operation_content": "删除产品",
+    "result": "成功"
+  },
+  "find_product": {
+    "keyword": "查询产品信息",
+    "username": "admin02",
+    "operation_content": "查询产品信息",
+    "result": "成功"
+  },
+  "find_product_version": {
+    "keyword": "查询产品版本列表",
+    "username": "admin02",
+    "operation_content": "查询产品版本列表",
+    "result": "成功"
+  },
+  "add_role": {
+    "keyword": "角色添加",
+    "username": "admin02",
+    "operation_content": "角色添加",
+    "result": "成功"
+  },
+  "modify_role": {
+    "keyword": "角色修改",
+    "username": "admin02",
+    "operation_content": "角色修改",
+    "result": "成功"
+  },
+  "delete_role": {
+    "keyword": "角色删除",
+    "username": "admin02",
+    "operation_content": "角色删除",
+    "result": "成功"
+  },
+  "download_file": {
+    "keyword": "数据备份-下载文件",
+    "username": "admin02",
+    "operation_content": "数据备份-下载文件",
+    "result": "成功"
+  },
+  "search_feature_params": {
+    "keyword": "查询特性参数",
+    "username": "admin02",
+    "operation_content": "查询特性参数",
+    "result": "成功"
+  },
+  "add_feature_params": {
+    "keyword": "新增特性参数",
+    "username": "admin02",
+    "operation_content": "新增特性参数",
+    "result": "成功"
+  },
+  "modify_feature_params": {
+    "keyword": "修改特性参数",
+    "username": "admin02",
+    "operation_content": "修改特性参数",
+    "result": "成功"
+  },
+  "delete_feature_params": {
+    "keyword": "删除特性参数",
+    "username": "admin02",
+    "operation_content": "删除特性参数",
+    "result": "成功"
+  },
+  "feature_params_detail": {
+    "keyword": "特性参数详情",
+    "username": "admin02",
+    "operation_content": "特性参数详情",
+    "result": "成功"
+  },
+  "record_layout_list": {
+    "keyword": "录制布局列表",
+    "username": "admin02",
+    "operation_content": "录制布局列表",
+    "result": "成功"
+  },
+  "global_record_setting_info_search": {
+    "keyword": "全局录制设置信息查看",
+    "username": "admin02",
+    "operation_content": "全局录制设置信息查看",
+    "result": "成功"
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "add_name_special_character_and_password_all_number": {
+    "user_name": ",./",
+    "user_password": "12345678",
+    "name_msg": "支持汉字,英文字母,数字和英文下划线",
+    "password_msg": "密码支持数字、字母和特殊符号，至少包含其中的两种，在8到32个字符之间!",
+    "phone_number": 19519761735
+  },
+  "add_name_and_password_empty": {
+    "user_name": "",
+    "user_password": "",
+    "name_msg": "用户名不能为空",
+    "password_msg": "密码不能为空",
+    "phone_number": 19519761735
+  },
+  "add_name_more_32_password_less_8": {
+    "user_name": "uipass124567890123456789012345678",
+    "user_password": "admin12",
+    "name_msg": "长度在1-32位之间",
+    "password_msg": "长度在8-32位之间",
+    "phone_number": 19519761735
+  },
+  "add_name_more_32_password_more_32": {
+    "user_name": "userx1234567890123456789012345678",
+    "user_password": "uipass124567890123456789012345678",
+    "name_msg": "长度在1-32位之间",
+    "password_msg": "长度在8-32位之间",
+    "phone_number": 19519761735
+  }
+}

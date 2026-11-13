@@ -1,0 +1,43 @@
+{
+  "系统信息": {
+    "节点授权信息": {"route": "#/ui/system-info/node-authorization-information", "title": "节点授权信息"}
+  },
+  "通讯录": {
+    "组织管理": {"route": "#/ui/organizational-management/department-management", "title": "组织管理"},
+    "用户管理": {"route": "#/ui/organizational-management/user-management", "title": "用户管理"},
+    "终端管理": {"route": "#/ui/organizational-management/terminal-management", "title": "终端管理"},
+    "呼叫管理": {"route": "#/ui/organizational-management/user-call", "title": "呼叫管理"}
+  },
+  "会议管理": {
+    "会议室信息": {"route": "#/ui/conference-management/conference-room-info", "title": "会议室信息"},
+    "会议记录": {"route": "#/ui/conference-management/conference-record", "title": "会议记录"},
+    "会议场景管理": {"route": "#/ui/conference-management/conference-scenario-management", "title": "会议场景管理"},
+    "会议统计": {"route": "#/ui/conference-management/conference-statistics", "title": "会议统计"},
+    "在线会议室": {"route": "#/ui/conference-management/online-conference", "title": "在线会议室"}
+  },
+  "录制管理": {
+    "全局录制设置": {"route": "#/ui/recording/whole-situation-recording-setting", "title": "全局录制设置"},
+    "录制任务管理": {"route": "#/ui/recording/recording-task", "title": "录制任务管理"}
+  },
+  "日志管理": {
+    "操作日志": {"route": "#/ui/log-management/operation-log", "title": "操作日志"},
+    "会议日志": {"route": "#/ui/log-management/conference-log", "title": "会议日志"},
+    "服务器日志": {"route": "#/ui/log-management/host-log", "title": "服务器日志"},
+    "终端日志": {"route": "#/ui/log-management/terminal-log", "title": "终端日志"}
+  },
+  "服务器管理": {
+    "服务器列表": {"route": "#/ui/host-management/host-list", "title": "服务器列表"},
+    "后台权限管理": {"route": "#/ui/host-management/background-permission-management", "title": "后台权限管理"},
+    "全局设置": {"route": "#/ui/host-management/global-setting", "title": "全局设置"},
+    "数据管理": {"route": "#/ui/host-management/data-management", "title": "数据管理"},
+    "帐号认证管理": {"route": "#/ui/host-management/account-authentication-management", "title": "帐号认证管理"}
+  },
+  "配置中心": {
+    "产品信息": {"route": "#/ui/configuration-center/product-information", "title": "产品信息"},
+    "特性管理": {"route": "#/ui/configuration-center/property-management", "title": "特性管理"},
+    "特性参数管理": {"route": "#/ui/configuration-center/characteristic-parameter-management", "title": "特性参数管理"}
+  },
+  "开发者中心": {
+    "开发者": {"route": "#/developer/developer-author", "title": "开发者"}
+  }
+}
